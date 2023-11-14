@@ -69,6 +69,11 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
+  include("D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
   include("D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/cmake_install.cmake")
 endif()
 

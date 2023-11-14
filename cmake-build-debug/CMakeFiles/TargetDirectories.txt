@@ -51,6 +51,10 @@ D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/05-Lesson5/CMakeFiles/Factorial3
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/05-Lesson5/CMakeFiles/Power.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/05-Lesson5/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/05-Lesson5/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/CMakeFiles/Areas.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/CMakeFiles/Recursion.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/Swap.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/rebuild_cache.dir

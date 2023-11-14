@@ -14,7 +14,8 @@
 						5,
 						8,
 						9,
-						10
+						10,
+						11
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -37,10 +38,10 @@
 					"targetIndexes" : 
 					[
 						0,
-						12,
-						15,
+						13,
 						16,
-						24
+						17,
+						26
 					]
 				},
 				{
@@ -57,9 +58,9 @@
 					[
 						1,
 						2,
-						8,
-						20,
-						27
+						9,
+						21,
+						29
 					]
 				},
 				{
@@ -78,10 +79,10 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						7,
-						10,
-						17,
-						32
+						8,
+						11,
+						18,
+						34
 					]
 				},
 				{
@@ -96,9 +97,9 @@
 					"source" : "02-Lesson2/array",
 					"targetIndexes" : 
 					[
-						3,
-						11,
-						18
+						4,
+						12,
+						19
 					]
 				},
 				{
@@ -129,10 +130,10 @@
 					"source" : "03-Lesson3/caseStructure",
 					"targetIndexes" : 
 					[
-						9,
-						22,
-						31,
-						33
+						10,
+						23,
+						33,
+						35
 					]
 				},
 				{
@@ -147,10 +148,10 @@
 					"source" : "03-Lesson3/loop",
 					"targetIndexes" : 
 					[
-						6,
-						13,
-						26,
-						29
+						7,
+						14,
+						28,
+						31
 					]
 				},
 				{
@@ -165,12 +166,12 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						4,
 						5,
-						19,
-						23,
-						25,
-						28
+						6,
+						20,
+						24,
+						27,
+						30
 					]
 				},
 				{
@@ -185,8 +186,24 @@
 					"source" : "05-Lesson5",
 					"targetIndexes" : 
 					[
-						14,
-						21
+						15,
+						22
+					]
+				},
+				{
+					"build" : "06-Lesson6",
+					"jsonFile" : "directory-06-Lesson6-Debug-9d36f11ae0b578759de5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "06-Lesson6",
+					"targetIndexes" : 
+					[
+						3,
+						25
 					]
 				},
 				{
@@ -201,7 +218,7 @@
 					"source" : "08-Lesson8",
 					"targetIndexes" : 
 					[
-						30
+						32
 					]
 				}
 			],
@@ -221,7 +238,8 @@
 						7,
 						8,
 						9,
-						10
+						10,
+						11
 					],
 					"name" : "2023_CPL_coding_v0_0",
 					"targetIndexes" : 
@@ -259,7 +277,9 @@
 						30,
 						31,
 						32,
-						33
+						33,
+						34,
+						35
 					]
 				}
 			],
@@ -284,6 +304,13 @@
 					"id" : "Administration::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Administration-Debug-b6e174393cfabcfa0b47.json",
 					"name" : "Administration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 10,
+					"id" : "Areas::@0432396df542767385f1",
+					"jsonFile" : "target-Areas-Debug-63c80f1a2db498a9aa00.json",
+					"name" : "Areas",
 					"projectIndex" : 0
 				},
 				{
@@ -434,6 +461,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 10,
+					"id" : "Recursion::@0432396df542767385f1",
+					"jsonFile" : "target-Recursion-Debug-eb72fe3c877692d86bdd.json",
+					"name" : "Recursion",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "RoundCalculate::@0fc9880f443f1eea0558",
 					"jsonFile" : "target-RoundCalculate-Debug-1640f8ace8cf88ccc5a3.json",
@@ -476,7 +510,7 @@
 					"projectIndex" : 0
 				},
 				{
-					"directoryIndex" : 10,
+					"directoryIndex" : 11,
 					"id" : "Swap::@41cedfc247a6db823226",
 					"jsonFile" : "target-Swap-Debug-c629924d0b634b1c3c46.json",
 					"name" : "Swap",

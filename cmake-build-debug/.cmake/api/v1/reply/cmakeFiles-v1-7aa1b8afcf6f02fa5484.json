@@ -129,6 +129,9 @@
 			"path" : "05-Lesson5/CMakeLists.txt"
 		},
 		{
+			"path" : "06-Lesson6/CMakeLists.txt"
+		},
+		{
 			"path" : "08-Lesson8/CMakeLists.txt"
 		}
 	],
