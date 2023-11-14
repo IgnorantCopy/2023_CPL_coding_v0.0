@@ -1,0 +1,34 @@
+一、for
+    for (<assignment of variable>; <condition>; <expression>) {
+        <task>
+    }
+二、while
+    while (condition) {
+        <task>
+    }
+三、do-while
+    do {
+        <task>
+    } while (condition);
+    注:task一定会被执行一次
+
+/*
+ * 三种循环的选择:
+ * for:计数控制的循环
+ * while:事件控制的循环
+ * do-while:事件控制的循环/循环体至少执行一次
+ */
+四、辅助控制语句
+1.break:结束循环流程
+2.continue:跳过循环体后面的部分,提前进入下一次循环
+3.goto:程序转移到特定<flag>的语句
+    goto <flag>;
+    ...
+    <flag>: <expressions>
+    注意:
+        ①不能用goto语句从一个函数外部转入该函数的内部
+        ②不能用goto语句从一个函数内部转入该函数的外部
+        ③允许用goto语句从内层复合语句转到外层复合语句或从外层复合语句转入内层复合语句
+        ④goto语句不能略过带有初始化的变量定义
+4.return:函数返回值
+

@@ -1,0 +1,5 @@
+add_subdirectory(array)
+add_executable(Capitalize Capitalize.c)
+add_executable(Enum Enum.c)
+add_executable(MathTest MathTest.c)
+add_executable(TypeTransfer TypeTransfer.c)

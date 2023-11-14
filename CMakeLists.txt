@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.26)
+project(2023_CPL_coding_v0_0 C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_subdirectory(00-Hello)
+add_subdirectory(01-Lesson1)
+add_subdirectory(02-Lesson2)
+add_subdirectory(03-Lesson3)
+add_subdirectory(04-Lesson4)
+add_subdirectory(05-Lesson5)
+add_subdirectory(08-Lesson8)

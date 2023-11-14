@@ -1,0 +1,79 @@
+1.symbol set(字符集):
+    ①大小写英文字母
+    ②数字
+    ③特殊符号: ~ ! # % ^ & * _ - + = | \ : ; " ' , . ? / () [] {} <> \t 空格 \r \n
+    ④不能出现的字符: × √ Π ` @ $ “” ， ‘’ ；……
+2.token(单词):由字符集中的字符按照一定的规则构成,是程序设计语言的基本单位
+    ①keyword(关键词):
+        >表示数据类型:auto char const double enum float int long register short signed struct union unsigned void ...
+        >表示语句:break continue do else for goto if return switch while ...
+        >表示标号:case default ...
+        >其他:extern sizeof static typedef
+    ②identifier(标识符):首字母必须是字母或下划线
+        >预定义标识符:在源代码中前面加#,编译后被相应内容取代,如:define include if else ifdef endif ...
+        >自定义标识符
+            ①要求不能和关键词和预定义标识符重复
+            ②已定义的标识符不能重复定义
+3.operator(操作符/运算符):用于描述程序中的操作,如+ - * / % = >= ()
+4.expression(表达式):用操作符将操作数连接起来的式子,以分号结尾
+    注:表达式也可以作为操作数参加运算
+5.punctuation(标点):
+    ># :表示预处理命令行     #define PI 3.14
+    >; :表示一条语句的结束   int i = 10;
+    >, :分隔多个参数和变量   int i,j;
+    >  :作为词汇之间的间隔
+    >: :分隔语句标号和语句
+6.annotation:略
+7.data type(数据类型):一个值的集合以及定义在这个值集上的一组操作;描述数据的取值属性
+    数据类型 = 值集 + 操作集
+    值集:规定了该数据类型能包含哪些值(包括这些值的结构)
+    操作集:规定了对值集中的值能实施哪些运算
+    ①基本(标准/内置)数据类型:预先定义好的数据类型
+        >整数类型:根据精度分为:
+            int: -2147483648 ~ 2147483647 ; 占 4 Bytes
+            short int or short: -32768 ~ 32767 ; 占 2 Bytes
+            long int or long: -2147483648 ~ 2147483647 ; 占 4 Bytes
+        >实数类型:
+            float: -3.4e38 ~ 3.4e38 ; 占 4 Bytes
+            double: -1.8e308 ~ 1.8e308 ; 占 8 Bytes
+            long double
+            注意:
+                对浮点数进行关系操作时,避免 == 和 != 运算,可改为:
+             * #define ZERO 1e-6
+             * x == y  -->  fabs(x-y) < ZERO
+             * x != y  -->  fabs(x-y) > ZERO
+        >字符类型(占 1 Byte)
+            char
+                -signed char
+                -unsigned char
+            wchar_t(宽字符):可以描述 Unicode
+            转义字符:\n \r(回车符) \t \b(退格符) \a(响铃)
+            允许的操作集:
+                算术操作
+                关系和逻辑操作
+                位操作
+                赋值操作
+                条件操作
+            'A':65  ;  'a':97  ;  '0':48
+        >逻辑类型(占 1 Byte)
+            bool: true(!0) & false(0)
+        >空值类型:void
+    ②构造(复合)数据类型:用户利用语言提供的类型构造机制从其他类型构造出来的数据类型(除枚举类)
+        >枚举类型
+        >数组类型
+        >结构与联合类
+        >指针类型
+        >引用类型
+    ③抽象数据类型:用户利用数据抽象机制把数据与对应的操作作为一个整体来描述的数据类型(类)
+        >类
+        >派生类
+8.constant and variable
+    ①constant:用于表示在程序执行过程中不变或不能改变的数据
+        >literal constant(字面常量/直接量):在程序中直接写出常量值来使用的常量
+        >manifest constant(符号常量/命名常量):通过常量定义给常量取一个名字并指定一个类型,在程序中通过常量名来只用这些常量
+            ①definition:
+                >#define <常量名> <值>
+                >const <类型名> <常量名> = <值>;
+    ②variable:用于表示在程序执行过程中可变的数据
+        >definition: <类型名> <变量名> = <初始化值>
+        >attribute(属性):address(系统决定) + value(二进制)
