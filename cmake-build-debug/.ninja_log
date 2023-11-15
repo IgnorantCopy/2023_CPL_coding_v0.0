@@ -1,3 +1,7 @@
 # ninja log v5
 2	93	7216543896916145	02-Lesson2/array/CMakeFiles/Swap.dir/Swap.c.obj	319a67d1428eb21d
 93	215	7216543898084280	02-Lesson2/array/Swap.exe	3f3e89e4a3985686
+1	77	7216697589659494	06-Lesson6/CMakeFiles/Areas.dir/Areas.c.obj	15975271b6f59f5e
+78	174	7216697590549825	06-Lesson6/Areas.exe	588f785f4b147096
+1	159	7217325968521066	08-Lesson8/CMakeFiles/ArrayPointer1.dir/ArrayPointer1.c.obj	e4e8ef5a704438e1
+159	334	7217325970228268	08-Lesson8/ArrayPointer1.exe	d311787de14e8a53

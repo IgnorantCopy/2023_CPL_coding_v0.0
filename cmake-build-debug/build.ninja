@@ -1536,6 +1536,39 @@ build 08-Lesson8/Swap.exe: C_EXECUTABLE_LINKER__Swap_Debug 08-Lesson8/CMakeFiles
   TARGET_IMPLIB = 08-Lesson8\libSwap.dll.a
   TARGET_PDB = Swap.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ArrayPointer1
+
+
+#############################################
+# Order-only phony target for ArrayPointer1
+
+build cmake_object_order_depends_target_ArrayPointer1: phony || 08-Lesson8/CMakeFiles/ArrayPointer1.dir
+
+build 08-Lesson8/CMakeFiles/ArrayPointer1.dir/ArrayPointer1.c.obj: C_COMPILER__ArrayPointer1_unscanned_Debug D$:/codes/2023_CPL_coding_v0.0/08-Lesson8/ArrayPointer1.c || cmake_object_order_depends_target_ArrayPointer1
+  DEP_FILE = 08-Lesson8\CMakeFiles\ArrayPointer1.dir\ArrayPointer1.c.obj.d
+  FLAGS = -g -std=gnu11 -fdiagnostics-color=always
+  OBJECT_DIR = 08-Lesson8\CMakeFiles\ArrayPointer1.dir
+  OBJECT_FILE_DIR = 08-Lesson8\CMakeFiles\ArrayPointer1.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ArrayPointer1
+
+
+#############################################
+# Link the executable 08-Lesson8\ArrayPointer1.exe
+
+build 08-Lesson8/ArrayPointer1.exe: C_EXECUTABLE_LINKER__ArrayPointer1_Debug 08-Lesson8/CMakeFiles/ArrayPointer1.dir/ArrayPointer1.c.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = 08-Lesson8\CMakeFiles\ArrayPointer1.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = 08-Lesson8\ArrayPointer1.exe
+  TARGET_IMPLIB = 08-Lesson8\libArrayPointer1.dll.a
+  TARGET_PDB = ArrayPointer1.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -1577,6 +1610,10 @@ build Administration.exe: phony 01-Lesson1/Administration.exe
 build Areas: phony 06-Lesson6/Areas.exe
 
 build Areas.exe: phony 06-Lesson6/Areas.exe
+
+build ArrayPointer1: phony 08-Lesson8/ArrayPointer1.exe
+
+build ArrayPointer1.exe: phony 08-Lesson8/ArrayPointer1.exe
 
 build ArrayTest: phony 02-Lesson2/array/ArrayTest.exe
 
@@ -1791,7 +1828,7 @@ build 06-Lesson6/all: phony 06-Lesson6/Areas.exe 06-Lesson6/Recursion.exe
 #############################################
 # Folder: D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8
 
-build 08-Lesson8/all: phony 08-Lesson8/Swap.exe
+build 08-Lesson8/all: phony 08-Lesson8/Swap.exe 08-Lesson8/ArrayPointer1.exe
 
 # =============================================================================
 # Built-in targets

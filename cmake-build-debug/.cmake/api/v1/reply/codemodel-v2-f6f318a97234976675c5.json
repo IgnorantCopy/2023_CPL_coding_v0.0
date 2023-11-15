@@ -38,10 +38,10 @@
 					"targetIndexes" : 
 					[
 						0,
-						13,
-						16,
+						14,
 						17,
-						26
+						18,
+						27
 					]
 				},
 				{
@@ -58,9 +58,9 @@
 					[
 						1,
 						2,
-						9,
-						21,
-						29
+						10,
+						22,
+						30
 					]
 				},
 				{
@@ -79,10 +79,10 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						8,
-						11,
-						18,
-						34
+						9,
+						12,
+						19,
+						35
 					]
 				},
 				{
@@ -97,9 +97,9 @@
 					"source" : "02-Lesson2/array",
 					"targetIndexes" : 
 					[
-						4,
-						12,
-						19
+						5,
+						13,
+						20
 					]
 				},
 				{
@@ -130,10 +130,10 @@
 					"source" : "03-Lesson3/caseStructure",
 					"targetIndexes" : 
 					[
-						10,
-						23,
-						33,
-						35
+						11,
+						24,
+						34,
+						36
 					]
 				},
 				{
@@ -148,10 +148,10 @@
 					"source" : "03-Lesson3/loop",
 					"targetIndexes" : 
 					[
-						7,
-						14,
-						28,
-						31
+						8,
+						15,
+						29,
+						32
 					]
 				},
 				{
@@ -166,12 +166,12 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						5,
 						6,
-						20,
-						24,
-						27,
-						30
+						7,
+						21,
+						25,
+						28,
+						31
 					]
 				},
 				{
@@ -186,8 +186,8 @@
 					"source" : "05-Lesson5",
 					"targetIndexes" : 
 					[
-						15,
-						22
+						16,
+						23
 					]
 				},
 				{
@@ -203,7 +203,7 @@
 					"targetIndexes" : 
 					[
 						3,
-						25
+						26
 					]
 				},
 				{
@@ -218,7 +218,8 @@
 					"source" : "08-Lesson8",
 					"targetIndexes" : 
 					[
-						32
+						4,
+						33
 					]
 				}
 			],
@@ -279,7 +280,8 @@
 						32,
 						33,
 						34,
-						35
+						35,
+						36
 					]
 				}
 			],
@@ -311,6 +313,13 @@
 					"id" : "Areas::@0432396df542767385f1",
 					"jsonFile" : "target-Areas-Debug-63c80f1a2db498a9aa00.json",
 					"name" : "Areas",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "ArrayPointer1::@41cedfc247a6db823226",
+					"jsonFile" : "target-ArrayPointer1-Debug-acecaace64ad88b867ef.json",
+					"name" : "ArrayPointer1",
 					"projectIndex" : 0
 				},
 				{
