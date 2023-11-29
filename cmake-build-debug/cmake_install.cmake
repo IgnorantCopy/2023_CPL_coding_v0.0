@@ -77,6 +77,16 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   include("D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/cmake_install.cmake")
 endif()
 
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/09-Lesson9/cmake_install.cmake")
+endif()
+
+if(NOT CMAKE_INSTALL_LOCAL_ONLY)
+  # Include the install script for the subdirectory.
+  include("D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/10-Lesson10/cmake_install.cmake")
+endif()
+
 if(CMAKE_INSTALL_COMPONENT)
   set(CMAKE_INSTALL_MANIFEST "install_manifest_${CMAKE_INSTALL_COMPONENT}.txt")
 else()

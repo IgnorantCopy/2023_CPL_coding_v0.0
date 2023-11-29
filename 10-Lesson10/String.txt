@@ -1,0 +1,71 @@
+一、字符数组
+1.字符数组的定义和初始化
+    >char str[<length>];
+    >char str[<length>] = {'c', ..., '\0'} / "string";
+        分配 length 字节的空间
+    >char str[] = {'c', ..., '\0'} / "string";
+        自动分配正好的空间
+2.字符数组的输入输出
+    >scanf/printf(以空格为分隔)
+    >gets/puts(以\n为分隔)
+    >getchar/putchar(单个字符)
+
+二、常用字符串处理库函数
+1.计算字符串长度
+size_t(unsigned long long int) strlen(const char *_Str);
+    >计算字符串中有效字符(从特定位置开始)的个数(不包括'\0')
+2.字符串复制
+char *strcpy(char *_Dest,const char *_Source);
+    >把字符串_Source复制到_Dest所指向的内存空间中。调用该库函数须保证s1所指向的内存空间足以存储s2
+char *strncpy(char *_Dest,const char *_Source, int n);
+    >把字符串_Source中的前n个字符复制到_Dest所指向的内存空间中
+3.字符串拼接
+char *strcat(char *_Dest, const char *_Source);
+char *strncat(char *_Dest, const char *_Source, int n);
+    >把字符串_Source追加到_Dest所指向的内存中字符串的后面,_Dest所指向的内存中原字符串的结束符被覆盖
+    新拼接的长字符串结尾有'\0',其他特征与字符串复制库函数类似
+4.字符串比较
+int strcmp(const char *_Str1, const char *_Str2);
+int strncmp(const char *_Str1, const char *_Str2, int n);
+    >功能:比较两个字符串的大小,即两个字符串在字典中的前后关系
+    >返回值:字符串_Str1与_Str2中对应位置第一个不同字符的ASCII码差值
+5.模式匹配
+char *strstr(const char *_Str, const char *_SubStr);
+    >求一个字符串在另一个字符串中首次出现的位置(不比较结束符),即子串的查找操作,返回NULL表示没找到
+6.其他
+①字符串转换为数字(位于stdlib.h中):
+    double atof(const char *_String);   ==> 将字符串转成double类型
+    int atoi(const char *_String);   ==> 将字符串转成int类型
+    long atol(const char *_String);   ==> 将字符串转成long类型
+②批量初始化
+    void *memset(void *_Dst,int _Val,size_t _Size);
+        >将字节数为_Size的一段内存单元全部置为变量c的值
+    void *memcpy(void *_Dst,const void *_Src,size_t _Size);
+        >实现字节数为_Size的一段内存的拷贝(_Size不要大于_Src的元素个数)
+注: strcpy vs memcpy
+    >strcpy只用于字符串复制,并且它不仅复制字符串内容之外,还会复制字符串的结束符
+    >memcpy提供了一般内存的复制,即memcpy对于需要复制的内容没有限制,因此用途更广
+
+三、字符型指针数组与带形参的main函数
+e.g.
+#include <stdio.h>
+int main(int argc, char *argv[]) {
+    while(argc > 1) {
+        argv++;
+        printf("%s\n", *argv);
+        argc--;
+    }
+    return 0;
+}
+假设该代码存储在程序文件echo.c中,操作系统按如下命令执行该程序:
+c:\>echo China Nanjing
+即命令中包括三个字符串,于是形参argc自动获得字符串的个数3,
+形参argv是一个字符型指针数组,每个元素获得一个字符串,即:
+argv[0]获得"echo",
+argv[1]获得"China",
+argv[2]获得"Nanjing"
+程序执行结果为:
+China
+Nanjing
+
+

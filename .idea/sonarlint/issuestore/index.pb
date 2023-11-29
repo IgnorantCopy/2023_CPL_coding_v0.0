@@ -107,3 +107,33 @@ B
 06-Lesson6/Areas.c,0\6\06a8655420b4eabee53c99b64b18bb92605fc919
 J
 08-Lesson8/ArrayPointer1.c,8\1\811d83eb976c96c8897bab2544897ff8c23d6ac7
+I
+09-Lesson9/CMakeLists.txt,3\c\3c5c174e7ac5d6340c1691fcc54a73c523dfa0ae
+M
+09-Lesson9/KonwledgePoint.txt,a\9\a992c2843d2d1edd40eef8e5b50f7a3fe5ae8df5
+F
+08-Lesson8/Functions.c,a\c\ac224c967cf190a1341f6815c60e93c0316754cf
+F
+08-Lesson8/Integrate.c,3\9\390206091f01a351effb04c2dc2c85707895c0d8
+J
+10-Lesson10/CMakeLists.txt,d\d\ddc596b58ce9c3cd17be16476866107cd1caa8e4
+F
+10-Lesson10/String.txt,1\b\1b7429d7040274a5df5396edd3c0dabb94329273
+K
+09-Lesson9/CitationType.txt,6\7\67e91c3fcc0bd56388c9c0af2e4924e2114c75b6
+F
+08-Lesson8/Pointer.txt,5\e\5e6d44bb2b169651c499b4eb60c0571ee6ff8dfe
+P
+ 07-Lesson7/Storage&Operation.txt,4\7\471a0e366adc2304de03d0e2910f791d8015a13e
+P
+ 06-Lesson6/Macro&MoreFuction.txt,d\0\d00bac45c1216b64060a50a5be2740f23be40acc
+G
+05-Lesson5/Function.txt,1\8\18c618249de14a6351e8380c6365e41ccc72c005
+H
+03-Lesson3/loop/Loop.txt,1\5\151a6ab8d559c3443f0871b656d2a4f3f82ff23a
+C
+02-Lesson2/Type.txt,f\e\feb51501c5502457e8acf196365768bdd102a92d
+D
+10-Lesson10/String.c,5\e\5e4149ad0a22e866395fa24854b3b072d34abe77
+F
+10-Lesson10/Password.c,c\3\c31189e012dd486f14e63829616fdb26f042a1b6

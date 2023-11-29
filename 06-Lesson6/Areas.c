@@ -24,31 +24,31 @@ int main() {
     int flag1 = 1;
     while (flag1) {
         MainMenu();
-        int key = 0;
+        char key = 0;
         int flag2 = 1;
         char exit;
-        scanf("%d", &key);
+        scanf("%c", &key);
         printf("-------------------------------\n");
         switch (key) {
-            case 1:
+            case '1':
                 Round();
                 break;
-            case 2:
+            case '2':
                 Sector();
                 break;
-            case 3:
+            case '3':
                 Rectangle();
                 break;
-            case 4:
+            case '4':
                 Rhomboid();
                 break;
-            case 5:
+            case '5':
                 Triangle();
                 break;
-            case 6:
+            case '6':
                 Trapezoid();
                 break;
-            case 7:
+            case '7':
                 while (flag2) {
                     printf("Are you sure to exit?(Y/N):");
                     getchar();

@@ -1,7 +1,17 @@
 # ninja log v5
 2	93	7216543896916145	02-Lesson2/array/CMakeFiles/Swap.dir/Swap.c.obj	319a67d1428eb21d
 93	215	7216543898084280	02-Lesson2/array/Swap.exe	3f3e89e4a3985686
-1	77	7216697589659494	06-Lesson6/CMakeFiles/Areas.dir/Areas.c.obj	15975271b6f59f5e
-78	174	7216697590549825	06-Lesson6/Areas.exe	588f785f4b147096
+4	263	7219752982315399	06-Lesson6/CMakeFiles/Areas.dir/Areas.c.obj	15975271b6f59f5e
 1	159	7217325968521066	08-Lesson8/CMakeFiles/ArrayPointer1.dir/ArrayPointer1.c.obj	e4e8ef5a704438e1
+264	479	7219752984416666	06-Lesson6/Areas.exe	588f785f4b147096
+4	163	7222554444681895	08-Lesson8/CMakeFiles/DynamicArray.dir/DynamicArray.c.obj	ee7bd61f73d92952
 159	334	7217325970228268	08-Lesson8/ArrayPointer1.exe	d311787de14e8a53
+164	360	7222554446598152	08-Lesson8/DynamicArray.exe	8894d8059317ee83
+144	602	7222585761174378	08-Lesson8/Integrate.exe	4260b2638f3410ce
+1	151	7222578119236888	08-Lesson8/CMakeFiles/Functions.dir/Functions.c.obj	dcfdc811a062a3ac
+152	412	7222578121794012	08-Lesson8/Functions.exe	aefef3b6583962db
+1	143	7222585756666596	08-Lesson8/CMakeFiles/Integrate.dir/Integrate.c.obj	96ced52c9661b339
+0	151	7229439149761195	10-Lesson10/CMakeFiles/String.dir/String.c.obj	567d9e2a6bc0ddb0
+152	351	7229439151690101	10-Lesson10/String.exe	be6bd1b6b1c7a838
+0	94	7229495513983460	10-Lesson10/CMakeFiles/Password.dir/Password.c.obj	de2043c7d2ae0f88
+95	219	7229495515187499	10-Lesson10/Password.exe	19e17b848b294cbf

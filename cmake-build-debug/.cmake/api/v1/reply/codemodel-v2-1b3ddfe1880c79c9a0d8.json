@@ -15,7 +15,9 @@
 						8,
 						9,
 						10,
-						11
+						11,
+						12,
+						13
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -39,9 +41,9 @@
 					[
 						0,
 						14,
-						17,
 						18,
-						27
+						19,
+						30
 					]
 				},
 				{
@@ -59,8 +61,8 @@
 						1,
 						2,
 						10,
-						22,
-						30
+						24,
+						33
 					]
 				},
 				{
@@ -81,8 +83,8 @@
 					[
 						9,
 						12,
-						19,
-						35
+						21,
+						39
 					]
 				},
 				{
@@ -99,7 +101,7 @@
 					[
 						5,
 						13,
-						20
+						22
 					]
 				},
 				{
@@ -131,9 +133,9 @@
 					"targetIndexes" : 
 					[
 						11,
-						24,
-						34,
-						36
+						27,
+						38,
+						40
 					]
 				},
 				{
@@ -150,8 +152,8 @@
 					[
 						8,
 						15,
-						29,
-						32
+						32,
+						36
 					]
 				},
 				{
@@ -168,10 +170,10 @@
 					[
 						6,
 						7,
-						21,
-						25,
+						23,
 						28,
-						31
+						31,
+						34
 					]
 				},
 				{
@@ -187,7 +189,7 @@
 					"targetIndexes" : 
 					[
 						16,
-						23
+						26
 					]
 				},
 				{
@@ -203,7 +205,7 @@
 					"targetIndexes" : 
 					[
 						3,
-						26
+						29
 					]
 				},
 				{
@@ -219,7 +221,36 @@
 					"targetIndexes" : 
 					[
 						4,
-						33
+						17,
+						20,
+						37
+					]
+				},
+				{
+					"build" : "09-Lesson9",
+					"jsonFile" : "directory-09-Lesson9-Debug-cc59de94b0c7638bd435.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "09-Lesson9"
+				},
+				{
+					"build" : "10-Lesson10",
+					"jsonFile" : "directory-10-Lesson10-Debug-79fe9843473d7153276a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "10-Lesson10",
+					"targetIndexes" : 
+					[
+						25,
+						35
 					]
 				}
 			],
@@ -240,7 +271,9 @@
 						8,
 						9,
 						10,
-						11
+						11,
+						12,
+						13
 					],
 					"name" : "2023_CPL_coding_v0_0",
 					"targetIndexes" : 
@@ -281,7 +314,11 @@
 						33,
 						34,
 						35,
-						36
+						36,
+						37,
+						38,
+						39,
+						40
 					]
 				}
 			],
@@ -407,6 +444,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 11,
+					"id" : "Functions::@41cedfc247a6db823226",
+					"jsonFile" : "target-Functions-Debug-3268c7183d2dc5cbd681.json",
+					"name" : "Functions",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Guess::@0fc9880f443f1eea0558",
 					"jsonFile" : "target-Guess-Debug-40238d9e3a0bc1188e8c.json",
@@ -418,6 +462,13 @@
 					"id" : "Hello::@0fc9880f443f1eea0558",
 					"jsonFile" : "target-Hello-Debug-05a0ead66c206885d8c3.json",
 					"name" : "Hello",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 11,
+					"id" : "Integrate::@41cedfc247a6db823226",
+					"jsonFile" : "target-Integrate-Debug-f380fdee9674b3ba57c4.json",
+					"name" : "Integrate",
 					"projectIndex" : 0
 				},
 				{
@@ -446,6 +497,13 @@
 					"id" : "Mol::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Mol-Debug-646f0c2c566ca5422717.json",
 					"name" : "Mol",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "Password::@9af4928e4b138c3afcb1",
+					"jsonFile" : "target-Password-Debug-141bf572e07eecaf0d70.json",
+					"name" : "Password",
 					"projectIndex" : 0
 				},
 				{
@@ -509,6 +567,13 @@
 					"id" : "StraightInsertionSort::@95f9a9946598e7ab2068",
 					"jsonFile" : "target-StraightInsertionSort-Debug-77dd4c7dd1affb06cd0f.json",
 					"name" : "StraightInsertionSort",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 13,
+					"id" : "String::@9af4928e4b138c3afcb1",
+					"jsonFile" : "target-String-Debug-9512b459409009e9b1cf.json",
+					"name" : "String",
 					"projectIndex" : 0
 				},
 				{

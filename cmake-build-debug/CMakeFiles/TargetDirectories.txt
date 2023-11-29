@@ -57,5 +57,13 @@ D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/CMakeFiles/edit_cache
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/06-Lesson6/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/Swap.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/ArrayPointer1.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/Functions.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/Integrate.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/08-Lesson8/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/09-Lesson9/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/09-Lesson9/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/10-Lesson10/CMakeFiles/String.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/10-Lesson10/CMakeFiles/Password.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/10-Lesson10/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/10-Lesson10/CMakeFiles/rebuild_cache.dir
