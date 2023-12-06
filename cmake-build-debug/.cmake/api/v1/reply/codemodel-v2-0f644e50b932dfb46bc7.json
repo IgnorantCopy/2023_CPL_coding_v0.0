@@ -17,7 +17,8 @@
 						10,
 						11,
 						12,
-						13
+						13,
+						14
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -41,9 +42,9 @@
 					[
 						0,
 						14,
-						18,
 						19,
-						30
+						20,
+						33
 					]
 				},
 				{
@@ -61,8 +62,8 @@
 						1,
 						2,
 						10,
-						24,
-						33
+						26,
+						36
 					]
 				},
 				{
@@ -83,8 +84,8 @@
 					[
 						9,
 						12,
-						21,
-						39
+						23,
+						43
 					]
 				},
 				{
@@ -101,7 +102,7 @@
 					[
 						5,
 						13,
-						22
+						24
 					]
 				},
 				{
@@ -133,9 +134,9 @@
 					"targetIndexes" : 
 					[
 						11,
-						27,
-						38,
-						40
+						30,
+						42,
+						44
 					]
 				},
 				{
@@ -152,8 +153,8 @@
 					[
 						8,
 						15,
-						32,
-						36
+						35,
+						40
 					]
 				},
 				{
@@ -170,10 +171,10 @@
 					[
 						6,
 						7,
-						23,
-						28,
+						25,
 						31,
-						34
+						34,
+						37
 					]
 				},
 				{
@@ -189,7 +190,7 @@
 					"targetIndexes" : 
 					[
 						16,
-						26
+						29
 					]
 				},
 				{
@@ -205,7 +206,7 @@
 					"targetIndexes" : 
 					[
 						3,
-						29
+						32
 					]
 				},
 				{
@@ -222,8 +223,8 @@
 					[
 						4,
 						17,
-						20,
-						37
+						21,
+						41
 					]
 				},
 				{
@@ -249,8 +250,26 @@
 					"source" : "10-Lesson10",
 					"targetIndexes" : 
 					[
-						25,
-						35
+						27,
+						38
+					]
+				},
+				{
+					"build" : "11-Lesson11",
+					"jsonFile" : "directory-11-Lesson11-Debug-36d4324a8793f7b5fc37.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "11-Lesson11",
+					"targetIndexes" : 
+					[
+						18,
+						22,
+						28,
+						39
 					]
 				}
 			],
@@ -273,7 +292,8 @@
 						10,
 						11,
 						12,
-						13
+						13,
+						14
 					],
 					"name" : "2023_CPL_coding_v0_0",
 					"targetIndexes" : 
@@ -318,7 +338,11 @@
 						37,
 						38,
 						39,
-						40
+						40,
+						41,
+						42,
+						43,
+						44
 					]
 				}
 			],
@@ -451,6 +475,13 @@
 					"projectIndex" : 0
 				},
 				{
+					"directoryIndex" : 14,
+					"id" : "Graphs::@704c31dc6d2ee0284a05",
+					"jsonFile" : "target-Graphs-Debug-944b10bfb14414b37ae0.json",
+					"name" : "Graphs",
+					"projectIndex" : 0
+				},
+				{
 					"directoryIndex" : 1,
 					"id" : "Guess::@0fc9880f443f1eea0558",
 					"jsonFile" : "target-Guess-Debug-40238d9e3a0bc1188e8c.json",
@@ -469,6 +500,13 @@
 					"id" : "Integrate::@41cedfc247a6db823226",
 					"jsonFile" : "target-Integrate-Debug-f380fdee9674b3ba57c4.json",
 					"name" : "Integrate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "LinkedList::@704c31dc6d2ee0284a05",
+					"jsonFile" : "target-LinkedList-Debug-dc2d752bce42dc8b337f.json",
+					"name" : "LinkedList",
 					"projectIndex" : 0
 				},
 				{
@@ -504,6 +542,13 @@
 					"id" : "Password::@9af4928e4b138c3afcb1",
 					"jsonFile" : "target-Password-Debug-141bf572e07eecaf0d70.json",
 					"name" : "Password",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Poland::@704c31dc6d2ee0284a05",
+					"jsonFile" : "target-Poland-Debug-fc161b64e77500466e5f.json",
+					"name" : "Poland",
 					"projectIndex" : 0
 				},
 				{
@@ -574,6 +619,13 @@
 					"id" : "String::@9af4928e4b138c3afcb1",
 					"jsonFile" : "target-String-Debug-9512b459409009e9b1cf.json",
 					"name" : "String",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 14,
+					"id" : "Structure::@704c31dc6d2ee0284a05",
+					"jsonFile" : "target-Structure-Debug-afd9b9a4a66e56f62a15.json",
+					"name" : "Structure",
 					"projectIndex" : 0
 				},
 				{

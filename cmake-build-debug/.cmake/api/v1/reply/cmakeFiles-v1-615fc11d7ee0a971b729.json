@@ -139,6 +139,9 @@
 		},
 		{
 			"path" : "10-Lesson10/CMakeLists.txt"
+		},
+		{
+			"path" : "11-Lesson11/CMakeLists.txt"
 		}
 	],
 	"kind" : "cmakeFiles",

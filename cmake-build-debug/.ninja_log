@@ -10,8 +10,16 @@
 144	602	7222585761174378	08-Lesson8/Integrate.exe	4260b2638f3410ce
 1	151	7222578119236888	08-Lesson8/CMakeFiles/Functions.dir/Functions.c.obj	dcfdc811a062a3ac
 152	412	7222578121794012	08-Lesson8/Functions.exe	aefef3b6583962db
+95	219	7229495515187499	10-Lesson10/Password.exe	19e17b848b294cbf
 1	143	7222585756666596	08-Lesson8/CMakeFiles/Integrate.dir/Integrate.c.obj	96ced52c9661b339
 0	151	7229439149761195	10-Lesson10/CMakeFiles/String.dir/String.c.obj	567d9e2a6bc0ddb0
 152	351	7229439151690101	10-Lesson10/String.exe	be6bd1b6b1c7a838
 0	94	7229495513983460	10-Lesson10/CMakeFiles/Password.dir/Password.c.obj	de2043c7d2ae0f88
-95	219	7229495515187499	10-Lesson10/Password.exe	19e17b848b294cbf
+3	151	7234638976067587	11-Lesson11/CMakeFiles/Structure.dir/Structure.c.obj	c4dd3fc2b9a89352
+152	305	7234638977556916	11-Lesson11/Structure.exe	d5c2432bb6d9befd
+1	173	7234687344775300	11-Lesson11/CMakeFiles/Poland.dir/Poland.c.obj	2c31c13890d7949a
+175	419	7234687347149377	11-Lesson11/Poland.exe	8d8af29bb6d1ffee
+3	119	7234687748956451	11-Lesson11/CMakeFiles/Poland.dir/Poland.c.obj	2c31c13890d7949a
+119	260	7234687750314102	11-Lesson11/Poland.exe	8d8af29bb6d1ffee
+1	283	7235632976107428	11-Lesson11/CMakeFiles/Graphs.dir/Graphs.c.obj	94718e9770560995
+284	551	7235632978732791	11-Lesson11/Graphs.exe	5cf060bfedc36124
