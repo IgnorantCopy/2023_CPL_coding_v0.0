@@ -18,7 +18,8 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -267,9 +268,23 @@
 					"targetIndexes" : 
 					[
 						18,
-						22,
 						28,
 						39
+					]
+				},
+				{
+					"build" : "12-Lesson12",
+					"jsonFile" : "directory-12-Lesson12-Debug-7384b5b0f6d9635912a2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "12-Lesson12",
+					"targetIndexes" : 
+					[
+						22
 					]
 				}
 			],
@@ -293,7 +308,8 @@
 						11,
 						12,
 						13,
-						14
+						14,
+						15
 					],
 					"name" : "2023_CPL_coding_v0_0",
 					"targetIndexes" : 
@@ -358,7 +374,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "AdminScanf::@27672a625c4f46e2e714",
-					"jsonFile" : "target-AdminScanf-Debug-aa51faadcc36ef00b408.json",
+					"jsonFile" : "target-AdminScanf-Debug-dacd7f0cb1a7928825d6.json",
 					"name" : "AdminScanf",
 					"projectIndex" : 0
 				},
@@ -421,7 +437,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "Circle::@27672a625c4f46e2e714",
-					"jsonFile" : "target-Circle-Debug-d3bfc048ddd4b908e789.json",
+					"jsonFile" : "target-Circle-Debug-14051c574b58e480d7fa.json",
 					"name" : "Circle",
 					"projectIndex" : 0
 				},
@@ -477,7 +493,7 @@
 				{
 					"directoryIndex" : 14,
 					"id" : "Graphs::@704c31dc6d2ee0284a05",
-					"jsonFile" : "target-Graphs-Debug-944b10bfb14414b37ae0.json",
+					"jsonFile" : "target-Graphs-Debug-4607e9cd7882e38d50fc.json",
 					"name" : "Graphs",
 					"projectIndex" : 0
 				},
@@ -503,9 +519,9 @@
 					"projectIndex" : 0
 				},
 				{
-					"directoryIndex" : 14,
-					"id" : "LinkedList::@704c31dc6d2ee0284a05",
-					"jsonFile" : "target-LinkedList-Debug-dc2d752bce42dc8b337f.json",
+					"directoryIndex" : 15,
+					"id" : "LinkedList::@98e69886104dd137bbab",
+					"jsonFile" : "target-LinkedList-Debug-9d61806dd2cd6e30495f.json",
 					"name" : "LinkedList",
 					"projectIndex" : 0
 				},
@@ -533,7 +549,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "Mol::@27672a625c4f46e2e714",
-					"jsonFile" : "target-Mol-Debug-646f0c2c566ca5422717.json",
+					"jsonFile" : "target-Mol-Debug-d45929914a4ed8dac147.json",
 					"name" : "Mol",
 					"projectIndex" : 0
 				},
@@ -547,7 +563,7 @@
 				{
 					"directoryIndex" : 14,
 					"id" : "Poland::@704c31dc6d2ee0284a05",
-					"jsonFile" : "target-Poland-Debug-fc161b64e77500466e5f.json",
+					"jsonFile" : "target-Poland-Debug-4d91f95b68726b5f7c70.json",
 					"name" : "Poland",
 					"projectIndex" : 0
 				},
@@ -603,7 +619,7 @@
 				{
 					"directoryIndex" : 2,
 					"id" : "Sphere::@27672a625c4f46e2e714",
-					"jsonFile" : "target-Sphere-Debug-bcc61ead7c1a254a0915.json",
+					"jsonFile" : "target-Sphere-Debug-87a3c84358f036e2e36a.json",
 					"name" : "Sphere",
 					"projectIndex" : 0
 				},
@@ -675,6 +691,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 5
+		"minor" : 6
 	}
 }

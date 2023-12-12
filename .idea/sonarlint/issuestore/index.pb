@@ -137,3 +137,9 @@ D
 11-Lesson11/Graphs.c,3\d\3d243b1297acb087789ba2ea93b91e60f6abb735
 D
 11-Lesson11/Poland.c,6\1\6192a3017a4a31336e78b7d0a4b5410ee8c3b652
+J
+12-Lesson12/CMakeLists.txt,2\f\2f4552289395576d448405a0ecfea5d13953719a
+J
+12-Lesson12/LinkedList.txt,e\0\e050556555a63d02d3bf9ef5320b86c1a54e5945
+H
+12-Lesson12/LinkedList.c,f\7\f74ef430049e533374d94a4ce4714356089e5ece

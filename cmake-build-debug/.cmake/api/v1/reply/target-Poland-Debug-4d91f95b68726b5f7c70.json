@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "01-Lesson1/Circle.exe"
+			"path" : "11-Lesson11/Poland.exe"
 		},
 		{
-			"path" : "01-Lesson1/Circle.pdb"
+			"path" : "11-Lesson11/Poland.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"01-Lesson1/CMakeLists.txt"
+			"11-Lesson11/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Circle::@27672a625c4f46e2e714",
+	"id" : "Poland::@704c31dc6d2ee0284a05",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Circle",
-	"nameOnDisk" : "Circle.exe",
+	"name" : "Poland",
+	"nameOnDisk" : "Poland.exe",
 	"paths" : 
 	{
-		"build" : "01-Lesson1",
-		"source" : "01-Lesson1"
+		"build" : "11-Lesson11",
+		"source" : "11-Lesson11"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "01-Lesson1/Circle.c",
+			"path" : "11-Lesson11/Poland.c",
 			"sourceGroupIndex" : 0
 		}
 	],

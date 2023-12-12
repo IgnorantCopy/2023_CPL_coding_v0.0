@@ -1,4 +1,4 @@
-# Install script for directory: D:/codes/2023_CPL_coding_v0.0/05-Lesson5
+# Install script for directory: D:/codes/2023_CPL_coding_v0.0/12-Lesson12
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

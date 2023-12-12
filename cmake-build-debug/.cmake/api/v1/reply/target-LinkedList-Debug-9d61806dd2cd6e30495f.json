@@ -2,10 +2,10 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "11-Lesson11/Graphs.exe"
+			"path" : "12-Lesson12/LinkedList.exe"
 		},
 		{
-			"path" : "11-Lesson11/Graphs.pdb"
+			"path" : "12-Lesson12/LinkedList.pdb"
 		}
 	],
 	"backtrace" : 1,
@@ -17,7 +17,7 @@
 		],
 		"files" : 
 		[
-			"11-Lesson11/CMakeLists.txt"
+			"12-Lesson12/CMakeLists.txt"
 		],
 		"nodes" : 
 		[
@@ -27,7 +27,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 3,
+				"line" : 1,
 				"parent" : 0
 			}
 		]
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Graphs::@704c31dc6d2ee0284a05",
+	"id" : "LinkedList::@98e69886104dd137bbab",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -76,12 +76,12 @@
 		],
 		"language" : "C"
 	},
-	"name" : "Graphs",
-	"nameOnDisk" : "Graphs.exe",
+	"name" : "LinkedList",
+	"nameOnDisk" : "LinkedList.exe",
 	"paths" : 
 	{
-		"build" : "11-Lesson11",
-		"source" : "11-Lesson11"
+		"build" : "12-Lesson12",
+		"source" : "12-Lesson12"
 	},
 	"sourceGroups" : 
 	[
@@ -98,7 +98,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 0,
-			"path" : "11-Lesson11/Graphs.c",
+			"path" : "12-Lesson12/LinkedList.c",
 			"sourceGroupIndex" : 0
 		}
 	],
