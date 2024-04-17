@@ -73,5 +73,9 @@ D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/11-Lesson11/CMakeFiles/Poland.di
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/11-Lesson11/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/11-Lesson11/CMakeFiles/rebuild_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/12-Lesson12/CMakeFiles/LinkedList.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/12-Lesson12/CMakeFiles/DoubleLinkedList.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/12-Lesson12/CMakeFiles/edit_cache.dir
 D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/12-Lesson12/CMakeFiles/rebuild_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/13-Lesson13/CMakeFiles/Administrator.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/13-Lesson13/CMakeFiles/edit_cache.dir
+D:/codes/2023_CPL_coding_v0.0/cmake-build-debug/13-Lesson13/CMakeFiles/rebuild_cache.dir

@@ -3,7 +3,7 @@
 //
 
 #include <stdlib.h>
-#include "stdio.h"
+#include <stdio.h>
 
 struct Node {
     int content;
@@ -32,11 +32,11 @@ int main() {
     Remove(5, head);
     Output(head);
     printf("%d %d\n", Search(5, head), Search(9, head));
-    // 反转
     // 排序
     Delete(head);
     return 0;
 }
+
 struct Node* Creat() {
     struct Node *head = NULL;
     struct Node *tail = malloc(sizeof(struct Node));

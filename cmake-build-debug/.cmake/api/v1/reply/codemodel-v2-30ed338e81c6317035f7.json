@@ -19,7 +19,8 @@
 						12,
 						13,
 						14,
-						15
+						15,
+						16
 					],
 					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
 					"minimumCMakeVersion" : 
@@ -42,10 +43,10 @@
 					"targetIndexes" : 
 					[
 						0,
-						14,
-						19,
-						20,
-						33
+						16,
+						21,
+						22,
+						35
 					]
 				},
 				{
@@ -62,9 +63,9 @@
 					[
 						1,
 						2,
-						10,
-						26,
-						36
+						11,
+						28,
+						38
 					]
 				},
 				{
@@ -83,10 +84,10 @@
 					"source" : "02-Lesson2",
 					"targetIndexes" : 
 					[
-						9,
-						12,
-						23,
-						43
+						10,
+						14,
+						25,
+						45
 					]
 				},
 				{
@@ -101,9 +102,9 @@
 					"source" : "02-Lesson2/array",
 					"targetIndexes" : 
 					[
-						5,
-						13,
-						24
+						6,
+						15,
+						26
 					]
 				},
 				{
@@ -134,10 +135,10 @@
 					"source" : "03-Lesson3/caseStructure",
 					"targetIndexes" : 
 					[
-						11,
-						30,
-						42,
-						44
+						12,
+						32,
+						44,
+						46
 					]
 				},
 				{
@@ -152,10 +153,10 @@
 					"source" : "03-Lesson3/loop",
 					"targetIndexes" : 
 					[
-						8,
-						15,
-						35,
-						40
+						9,
+						17,
+						37,
+						42
 					]
 				},
 				{
@@ -170,12 +171,12 @@
 					"source" : "04-Lesson4",
 					"targetIndexes" : 
 					[
-						6,
 						7,
-						25,
-						31,
-						34,
-						37
+						8,
+						27,
+						33,
+						36,
+						39
 					]
 				},
 				{
@@ -190,8 +191,8 @@
 					"source" : "05-Lesson5",
 					"targetIndexes" : 
 					[
-						16,
-						29
+						18,
+						31
 					]
 				},
 				{
@@ -206,8 +207,8 @@
 					"source" : "06-Lesson6",
 					"targetIndexes" : 
 					[
-						3,
-						32
+						4,
+						34
 					]
 				},
 				{
@@ -222,10 +223,10 @@
 					"source" : "08-Lesson8",
 					"targetIndexes" : 
 					[
-						4,
-						17,
-						21,
-						41
+						5,
+						19,
+						23,
+						43
 					]
 				},
 				{
@@ -251,8 +252,8 @@
 					"source" : "10-Lesson10",
 					"targetIndexes" : 
 					[
-						27,
-						38
+						29,
+						40
 					]
 				},
 				{
@@ -267,9 +268,9 @@
 					"source" : "11-Lesson11",
 					"targetIndexes" : 
 					[
-						18,
-						28,
-						39
+						20,
+						30,
+						41
 					]
 				},
 				{
@@ -284,7 +285,23 @@
 					"source" : "12-Lesson12",
 					"targetIndexes" : 
 					[
-						22
+						13,
+						24
+					]
+				},
+				{
+					"build" : "13-Lesson13",
+					"jsonFile" : "directory-13-Lesson13-Debug-10b017f68132254e661d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "13-Lesson13",
+					"targetIndexes" : 
+					[
+						3
 					]
 				}
 			],
@@ -309,7 +326,8 @@
 						12,
 						13,
 						14,
-						15
+						15,
+						16
 					],
 					"name" : "2023_CPL_coding_v0_0",
 					"targetIndexes" : 
@@ -358,7 +376,9 @@
 						41,
 						42,
 						43,
-						44
+						44,
+						45,
+						46
 					]
 				}
 			],
@@ -383,6 +403,13 @@
 					"id" : "Administration::@27672a625c4f46e2e714",
 					"jsonFile" : "target-Administration-Debug-b6e174393cfabcfa0b47.json",
 					"name" : "Administration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 16,
+					"id" : "Administrator::@feaf1422c29683917dc4",
+					"jsonFile" : "target-Administrator-Debug-e5481341c200960e03e2.json",
+					"name" : "Administrator",
 					"projectIndex" : 0
 				},
 				{
@@ -446,6 +473,13 @@
 					"id" : "CompareNumber::@27290e84ce5925af36d0",
 					"jsonFile" : "target-CompareNumber-Debug-3f5a1f3f2ebe13c59cfb.json",
 					"name" : "CompareNumber",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 15,
+					"id" : "DoubleLinkedList::@98e69886104dd137bbab",
+					"jsonFile" : "target-DoubleLinkedList-Debug-b541426cc2acdfd99a19.json",
+					"name" : "DoubleLinkedList",
 					"projectIndex" : 0
 				},
 				{

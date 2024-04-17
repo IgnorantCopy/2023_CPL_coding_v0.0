@@ -131,8 +131,6 @@ I
 11-Lesson11/Structure.txt,8\e\8e3142a7fbaed02358dd2e7d4490abc859493885
 G
 11-Lesson11/Structure.c,9\b\9b7e186a062d3dd1c190c90d78a5c5da5c6e8dd0
-H
-11-Lesson11/LinkedList.c,d\1\d18271f4161306585a3478c6034869d3c610b560
 D
 11-Lesson11/Graphs.c,3\d\3d243b1297acb087789ba2ea93b91e60f6abb735
 D
@@ -143,3 +141,11 @@ J
 12-Lesson12/LinkedList.txt,e\0\e050556555a63d02d3bf9ef5320b86c1a54e5945
 H
 12-Lesson12/LinkedList.c,f\7\f74ef430049e533374d94a4ce4714356089e5ece
+N
+12-Lesson12/DoubleLinkedList.c,9\0\90e5aa26bafd9d4de0ca0fc6acb3868b97e5617c
+J
+13-Lesson13/CMakeLists.txt,8\7\87e3bd7ca3bbffb848aeaf6060b4db9cd711d5be
+D
+13-Lesson13/File.txt,c\5\c50397d4e4e83879e40a8e9cbcca390d008b9b95
+K
+13-Lesson13/Administrator.c,8\7\8755e5f769e529327e2da95fd3a0182af16ff347
